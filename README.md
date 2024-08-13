@@ -1,3 +1,6 @@
+[![](https://img.shields.io/discord/1263839827661557801)](https://discord.gg/MC2BzcE3vx)
+[![](https://img.shields.io/github/sponsors/Obydux)](https://github.com/sponsors/Obydux)
+
 Information
 ======
 
