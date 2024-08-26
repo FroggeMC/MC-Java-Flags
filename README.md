@@ -4,7 +4,8 @@
 Information
 ======
 
-These Java flags are tuned for Minecraft servers ran with the GraalVM Java Runtime which you can download from [here](https://www.graalvm.org/downloads/). They have been tested against both Java 17 and 21 and **they only work on Linux**.
+These Java flags are meant for Minecraft servers ran with the GraalVM Java Runtime which you can download from [here](https://www.graalvm.org/downloads/). They only work on Java 17 and higher and **they only run on Linux**.
+### NOTE: These flags were just put together based on a few sources without proper testing on the actual performance impact. Most of these flags aren't GraalVM specific either. For a more sane way of optimizing the Java GC please read [this](https://obydux.github.io/Minecraft-startup-flags/).
 
 GraalVM Java Flags
 ======
